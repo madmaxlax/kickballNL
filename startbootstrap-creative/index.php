@@ -90,7 +90,7 @@
           <h2 class="section-heading text-white">About Us</h2>
           <hr class="light">
           <p class="text-faded">We are a group of friends who moved to Amsterdam over the years for university and/or work. Most of us are the United States and used to play kickball. Social kickball (as well as other sports) leagues are quite popular in the US, a few groups
-            we're personally familiar with and have inspired us:
+            we're personally familiar with and have inspired us are:
             <a class="text-faded" href="http://www.kickballbaltimore.com/" target="_blank">Kickball Baltimore</a>, <a class="text-faded" href="https://www.kickball.com/neworleans" target="_blank">WAKA NOLA</a> in New Orleans, and <a class="text-faded"
               href="https://playrecess.com" target="_blank">Play Recess</a> in San Francisco. </p>
           <!--           <a href="#services" class="page-scroll btn btn-default btn-xl sr-button">Get Started!</a> -->
@@ -116,7 +116,7 @@
           <div class="service-box">
             <i class="fa fa-4x fa-futbol-o text-primary sr-icons"></i>
             <h3>Similar to Baseball</h3>
-            <p class="text-muted">Or "honkbal," most of the rules such as outs and innings are the same: except no gloves and bats, just a big bouncy ball!</p>
+            <p class="text-muted">Or "honkbal," most of the rules, such as outs and innings, are the same: except no gloves and bats, just a big bouncy ball!</p>
           </div>
         </div>
         <div class="col-lg-3 col-md-6 text-center">
@@ -138,7 +138,7 @@
           <div class="service-box">
             <i class="fa fa-4x fa-book text-primary sr-icons"></i>
             <h3>Full Rules</h3>
-            <p class="text-muted">Here's a full list of rules from a more official site than ours. <a href="https://www.kickball.com/rules" target="_blank">Offical Kicball Rules <i class="fa fa-external-link text-primary"></i></a> </p>
+            <p class="text-muted">Here's a full list of rules from a more official site than ours. <a href="https://www.kickball.com/rules" target="_blank">Offical Kicbkall Rules <i class="fa fa-external-link text-primary"></i></a> </p>
           </div>
         </div>
       </div>
@@ -263,7 +263,7 @@
         </div>
         <div class="col-lg-4 offset-lg-2 text-center">
           <i class="fa fa-phone fa-3x sr-contact"></i>
-          <p>...no one uses phones anymore</p>
+          <p>...no one makes phone call</p>
         </div>
         <div class="col-lg-4 text-center">
           <i class="fa fa-envelope-o fa-3x sr-contact"></i>
