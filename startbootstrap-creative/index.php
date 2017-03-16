@@ -77,7 +77,7 @@
         <h1 id="homeHeading">We Want to Bring Kickball to Amsterdam!</h1>
         <hr>
         <p>A bunch of us all played kickball in social leagues back in the U.S. and have been missing it here in Amsterdam. We want to try and gauge interest in this kind of rec league here in Amster!</p>
-<!--         <a href="#about" class="btn btn-primary btn-xl page-scroll">Find Out More</a> -->
+        <!--         <a href="#about" class="btn btn-primary btn-xl page-scroll">Find Out More</a> -->
         <a href="https://goo.gl/forms/6OTnEYXRRPOrDdY43" target="_blank" class="btn btn-primary btn-xl">Interested? Fill out this Form!</a>
       </div>
     </div>
@@ -89,10 +89,11 @@
         <div class="col-lg-8 offset-lg-2 text-center">
           <h2 class="section-heading text-white">About Us</h2>
           <hr class="light">
-          <p class="text-faded">We are a group of friends who moved to Amsterdam over the years for university and/or work. Most of us are the United States and used to play kickball. 
-            Social kickball (as well as other sports) leagues are quite popular in the US, a few groups we're personally familiar with and have inspired us:  
-            <a class="text-faded" href="http://www.kickballbaltimore.com/" target="_blank">Kickball Baltimore</a>, <a class="text-faded" href="https://www.kickball.com/neworleans" target="_blank">WAKA NOLA</a> in New Orleans, and <a class="text-faded" href="https://playrecess.com" target="_blank">Play Recess</a> in San Francisco. </p>
-<!--           <a href="#services" class="page-scroll btn btn-default btn-xl sr-button">Get Started!</a> -->
+          <p class="text-faded">We are a group of friends who moved to Amsterdam over the years for university and/or work. Most of us are the United States and used to play kickball. Social kickball (as well as other sports) leagues are quite popular in the US, a few groups
+            we're personally familiar with and have inspired us:
+            <a class="text-faded" href="http://www.kickballbaltimore.com/" target="_blank">Kickball Baltimore</a>, <a class="text-faded" href="https://www.kickball.com/neworleans" target="_blank">WAKA NOLA</a> in New Orleans, and <a class="text-faded"
+              href="https://playrecess.com" target="_blank">Play Recess</a> in San Francisco. </p>
+          <!--           <a href="#services" class="page-scroll btn btn-default btn-xl sr-button">Get Started!</a> -->
           <a href="https://goo.gl/forms/6OTnEYXRRPOrDdY43" target="_blank" class="btn btn-default btn-xl sr-button">Fill out this form to show your interest!</a>
 
         </div>
@@ -129,7 +130,8 @@
           <div class="service-box">
             <i class="fa fa-4x fa-heart text-primary sr-icons"></i>
             <h3>Fun and Social!</h3>
-            <p class="text-muted">A big, probably the biggest part of this, would be to have fun! Drinking on the sidelines or on the field is encouraged, and no one should be taking the score too seriously! At the end of the day, <a href="https://www.youtube.com/watch?v=8ZfvUy6DctM" target="blank">it's just kickball, calm down</a>. </p>
+            <p class="text-muted">A big, probably the biggest part of this, would be to have fun! Drinking on the sidelines or on the field is encouraged, and no one should be taking the score too seriously! At the end of the day, <a href="https://www.youtube.com/watch?v=8ZfvUy6DctM"
+                target="blank">it's just kickball, calm down</a>. </p>
           </div>
         </div>
         <div class="col-lg-3 col-md-6 text-center">
@@ -244,7 +246,7 @@
     <div class="container text-center">
       <div class="call-to-action">
         <h2>Interested?</h2>
-<!--         <a href="http://startbootstrap.com/template-overviews/creative/" class="btn btn-default btn-xl sr-button">Download Now!</a> -->
+        <!--         <a href="http://startbootstrap.com/template-overviews/creative/" class="btn btn-default btn-xl sr-button">Download Now!</a> -->
         <a href="https://goo.gl/forms/6OTnEYXRRPOrDdY43" target="_blank" class="btn btn-default btn-xl sr-button">Fill out this form!</a>
 
       </div>
@@ -270,7 +272,22 @@
       </div>
     </div>
   </section>
+  <script>
+    (function(i, s, o, g, r, a, m) {
+      i['GoogleAnalyticsObject'] = r;
+      i[r] = i[r] || function() {
+        (i[r].q = i[r].q || []).push(arguments)
+      }, i[r].l = 1 * new Date();
+      a = s.createElement(o),
+        m = s.getElementsByTagName(o)[0];
+      a.async = 1;
+      a.src = g;
+      m.parentNode.insertBefore(a, m)
+    })(window, document, 'script', 'https://www.google-analytics.com/analytics.js', 'ga');
 
+    ga('create', 'UA-9932775-9', 'auto');
+    ga('send', 'pageview');
+  </script>
   <!-- jQuery Version 3.1.1 -->
   <script src="lib/jquery/jquery.js"></script>
 
