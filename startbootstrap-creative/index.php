@@ -94,7 +94,7 @@
             <a class="text-faded" href="http://www.kickballbaltimore.com/" target="_blank">Kickball Baltimore</a>, <a class="text-faded" href="https://www.kickball.com/neworleans" target="_blank">WAKA NOLA</a> in New Orleans, and <a class="text-faded"
               href="https://playrecess.com" target="_blank">Play Recess</a> in San Francisco. </p>
           <!--           <a href="#services" class="page-scroll btn btn-default btn-xl sr-button">Get Started!</a> -->
-          <a href="https://goo.gl/forms/6OTnEYXRRPOrDdY43" target="_blank" class="btn btn-default btn-xl sr-button">Fill out this form to show your interest!</a>
+          <a href="https://goo.gl/forms/6OTnEYXRRPOrDdY43" target="_blank" class="btn btn-default btn-xl sr-button">Fill out this form <span class="hidden-sm-down">to show your interest!</span></a>
 
         </div>
       </div>
@@ -128,7 +128,7 @@
         </div>
         <div class="col-lg-3 col-md-6 text-center">
           <div class="service-box">
-            <i class="fa fa-4x fa-heart text-primary sr-icons"></i>
+            <i class="fa fa-4x fa-users text-primary sr-icons"></i>
             <h3>Fun and Social!</h3>
             <p class="text-muted">A big, probably the biggest part of this, would be to have fun! Drinking on the sidelines or on the field is encouraged, and no one should be taking the score too seriously! At the end of the day, <a href="https://www.youtube.com/watch?v=8ZfvUy6DctM"
                 target="blank">it's just kickball, calm down</a>. </p>
@@ -263,7 +263,7 @@
         </div>
         <div class="col-lg-4 offset-lg-2 text-center">
           <i class="fa fa-phone fa-3x sr-contact"></i>
-          <p>...no one makes phone call</p>
+          <p>...no one makes phone calls anymore</p>
         </div>
         <div class="col-lg-4 text-center">
           <i class="fa fa-envelope-o fa-3x sr-contact"></i>
