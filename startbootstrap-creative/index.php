@@ -122,7 +122,7 @@
         <div class="col-lg-3 col-md-6 text-center">
           <div class="service-box">
             <i class="fa fa-4x fa-bullseye text-primary sr-icons"></i>
-            <h3>Ready to Ship</h3>
+            <h3>Watch Out!</h3>
             <p class="text-muted">You can get a base runner out by hitting them with the ball (as long as it's not on the head!)</p>
           </div>
         </div>
